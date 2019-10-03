@@ -1,4 +1,6 @@
 # Personnal memos for GitHub and Git
+Only contains few commands that I will use daily! Personnal repo that is made public for exercising purposes.
+
 git clone [URL] -> clone a repo from GitHub to PC
 
 git commit -a -m [message in ""] -> commit ALL changes with message
